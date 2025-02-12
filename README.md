@@ -108,8 +108,6 @@
   <a href="https://www.hackerrank.com/profile/Partyush007" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=88cc14&logoColor=black%20&labelColor=FFFFFF&style=for-the-badge" height="32" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.leetcode.com/u/starkp007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/starkp007/" height="30" width="40" />
-  </a>
   <a href="mailto:pratyush.garg47@outlook.com " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D0&logoColor=&labelColor=&style=for-the-badge" height="32" alt="microsoft-outlook logo"  />
   </a>
