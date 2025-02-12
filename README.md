@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" style="border-radius: 50%;" height="149" src="https://stark-praty.github.io/portfolio/images/A11.jpg"  />
+<img align="right" style="border-radius: 50%; width: 150px; height: 150px;" src="https://stark-praty.github.io/portfolio/images/A11.jpg" />
 
 ###
 
