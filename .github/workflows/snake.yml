@@ -21,7 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           github_user_name: stark-praty
           outputs: dist/snake.svg?palette=github-dark
 
@@ -32,4 +32,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
