@@ -129,7 +129,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/stark-praty/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=stark-praty&color=blueviolet" />
 </div>
 
 ###
