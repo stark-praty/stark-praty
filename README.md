@@ -26,28 +26,74 @@ pratyush@github ~ $ status
 </div>
 ---
 
-## What I work on
+## What I build
 
-- **AI & Machine Learning** — Python, applied ML, intelligent workflows
-- **Full-Stack Engineering** — frontend applications, backend systems, APIs, integrations
-- **Data** — data processing, analytics, automation
-- **Cloud & Platforms** — Azure, deployment, scalable application architecture
-- **Product Engineering** — business software and practical technology solutions
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI &amp; Machine Learning</h3>
+      Applied machine learning, intelligent workflows, LLM-powered features, and Python-based AI systems.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Full-Stack Engineering</h3>
+      End-to-end applications, backend architecture, APIs, integrations, and reliable product experiences.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data &amp; Engineering</h3>
+      Data processing, analytics, pipelines, and turning operational data into useful decisions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud &amp; Automation</h3>
+      Azure-based solutions, deployment, workflow automation, and scalable application infrastructure.
+    </td>
+  </tr>
+</table>
 
-## Core technology stack
+## Technology
 
 <div align="center">
-**PYTHON · AI / ML · DATA · FULL-STACK · CLOUD · AUTOMATION**
 
-<img src="https://www.gitskins.com/api/section/stack?username=stark-praty&theme=aurora" alt="Technology stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,dotnet,fastapi,nodejs,react,nextjs,postgres,docker,aws,azure,git&perline=11" alt="Technology icons" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend%20%26%20APIs-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Engineering-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20Automation-475569?style=flat-square" />
+
 </div>
 
-## Background
+## Background & credentials
 
-- **MSc Advanced Computer Science** — University of Hertfordshire, UK · Distinction
-- **Microsoft Certified: Azure Developer Associate** — AZ-204
-- **Python for Data Science** — GreyAtom
-- **Machine Learning Internship** — Smart Study Hub
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎓 MSc Advanced Computer Science</strong><br/>
+      University of Hertfordshire, United Kingdom<br/>
+      <sub>Distinction</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>☁️ Microsoft Certified: Azure Developer Associate</strong><br/>
+      Microsoft<br/>
+      <sub>Certification · AZ-204</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🐍 Python for Data Science</strong><br/>
+      GreyAtom<br/>
+      <sub>Data science training</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧠 Machine Learning Internship</strong><br/>
+      Smart Study Hub<br/>
+      <sub>Applied machine learning experience</sub>
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
