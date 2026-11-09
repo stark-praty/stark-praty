@@ -55,9 +55,21 @@ pratyush@github ~ $ status
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dotnet,react,postgres,azure,docker&perline=6" alt="Core technologies: Python, .NET, React, PostgreSQL, Azure, Docker" />
+<img src="https://skillicons.dev/icons?i=python,dotnet,react,postgres,azure,docker&perline=6" alt="Core technologies: Python, .NET, React, PostgreSQL, Azure and Docker" />
 
 </div>
+
+## Full technology stack
+
+| Area | Technologies & tools |
+| :--- | :--- |
+| **Languages** | Python · C# · JavaScript · TypeScript · SQL |
+| **AI / ML & Data** | Machine Learning · LLM workflows · Pandas · NumPy · Jupyter · Power BI |
+| **Backend & APIs** | .NET / ASP.NET Core · FastAPI · Node.js · REST APIs |
+| **Frontend** | React · Next.js · Streamlit · Gradio |
+| **Databases & Data Platforms** | PostgreSQL · Supabase · Prisma · TallyPrime integrations |
+| **Cloud & DevOps** | Azure · AWS · Docker · Linux · Nginx · PM2 · Git / GitHub |
+| **Engineering & Automation** | API integrations · Workflow automation · Postman · CI/CD |
 
 ## Background & credentials
 
