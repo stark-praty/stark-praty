@@ -8,9 +8,9 @@
 
 ### FOUNDER · PYTHON · AI / MACHINE LEARNING · FULL-STACK · DATA
 
-**Building intelligent products and practical software systems — combining AI/ML, Python, full-stack engineering, data, and cloud technologies.**
+**Building intelligent products and practical software systems — combining Python, AI/ML, full-stack engineering, data, and cloud technologies.**
 
-[Portfolio](https://stark-praty.github.io/portfolio/) · [HackerRank](https://www.hackerrank.com/profile/Partyush007) · [Email](mailto:pratyush.garg47@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/pratyushgarg7/) · [Portfolio](https://stark-praty.github.io/portfolio/) · [HackerRank](https://www.hackerrank.com/profile/Partyush007) · [Email](mailto:pratyush.garg47@outlook.com)
 
 </div>
 
@@ -20,13 +20,13 @@
 
     $ whoami
     Founder | Software & AI Engineering
-    
+
     $ cat focus.txt
-    Primary   : Python, AI/ML, applied machine learning
-    Engineering: Full-stack development, backend systems, APIs
-    Data      : Data processing, analytics, intelligent workflows
-    Platform  : Cloud infrastructure, automation, deployment
-    Mindset   : Build useful products. Solve real problems.
+    AI & Data   : Python, machine learning, data science, intelligent workflows
+    Engineering : Full-stack applications, backend systems, APIs, integrations
+    Cloud       : Azure, cloud application development, deployment
+    Product     : Business software, automation, practical AI solutions
+    Principle   : Build useful systems. Solve real problems.
 
 ## Core technologies
 
@@ -35,6 +35,13 @@
 
 <img src="https://www.gitskins.com/api/section/stack?username=stark-praty&theme=aurora" alt="Technology stack" width="100%" />
 </div>
+
+## Background
+
+- **MSc Advanced Computer Science** — University of Hertfordshire, UK · Distinction
+- **Microsoft Certified: Azure Developer Associate** — AZ-204
+- **Python for Data Science** — GreyAtom
+- **Machine Learning Internship** — Smart Study Hub
 
 ## Selected work
 
