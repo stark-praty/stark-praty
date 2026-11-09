@@ -1,12 +1,6 @@
 <div align="center">
 
-<img align="right" src="https://github.com/stark-praty.png" width="150" alt="Pratyush Garg GitHub profile picture" />
-
-# PRATYUSH GARG
-
-**FOUNDER · PYTHON · AI / ML · FULL-STACK · DATA**
-
-Building intelligent products and practical software systems at the intersection of AI, data, and software engineering.
+<img src="https://raw.githubusercontent.com/stark-praty/stark-praty/main/assets/profile-header.svg" alt="Pratyush Garg dot and dash profile banner with GitHub avatar" width="100%" />
 
 </div>
 
