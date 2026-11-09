@@ -53,6 +53,10 @@
 
 <img src="https://skillicons.dev/icons?i=python,dotnet,react,postgres,azure,docker&perline=6" alt="Core technologies: Python, .NET, React, PostgreSQL, Azure and Docker" />
 
+<br/>
+
+<img src="https://www.gitskins.com/api/section/stack?username=stark-praty&theme=aurora" alt="GitHub language and technology stack visualization" width="100%" />
+
 </div>
 
 ## Full technology stack
