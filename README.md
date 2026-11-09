@@ -1,25 +1,12 @@
-<table>
-  <tr>
-    <td width="78%" valign="middle">
-      <h1>PRATYUSH GARG</h1>
-      <h3>FOUNDER · SOFTWARE ENGINEER · AI BUILDER</h3>
-      <p>Python · AI / ML · Full-Stack · Data · Cloud · Automation</p>
-    </td>
-    <td width="22%" align="center" valign="middle">
-      <img src="https://github.com/stark-praty.png" width="140" alt="GitHub profile photo" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>WHOAMI</strong><br/>Founder · Software Engineer · AI Builder</td>
-    <td align="center" width="34%"><strong>CURRENT FOCUS</strong><br/>Python · AI / ML · Full-Stack · Data · Cloud · Automation</td>
-    <td align="center" width="33%"><strong>STATUS</strong><br/>Building intelligent systems</td>
-  </tr>
-</table>
+<img src="https://www.gitskins.com/api/section/hero?username=stark-praty&theme=aurora&style=aura" alt="GitSkins Aurora profile hero" width="100%" />
+
+<img src="https://github.com/stark-praty.png" width="150" alt="Pratyush Garg GitHub profile photo" />
+
+**FOUNDER · SOFTWARE ENGINEER · AI BUILDER**
+
+*Python · AI / ML · Full-Stack · Data · Cloud · Automation*
 
 </div>
 
@@ -32,6 +19,7 @@
 <a href="mailto:pratyush.garg47@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 
 </div>
+
 ---
 
 ## What I build
