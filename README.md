@@ -1,9 +1,19 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/stark-praty/stark-praty/main/assets/profile-header.svg?v=3" alt="Pratyush Garg dot and dash profile banner with GitHub avatar" width="100%" />
-
-</div>
-
+<table>
+  <tr>
+    <td valign="middle" width="78%">
+      <pre>
+.-. .-. .-. .-. -.   .-. .-..-..-..-.
+| | | | | | | | | |   | | | | | | | | |
+'-' '-' '-' '-' '-'   '-' '-' '-'-'-'-'-
+      </pre>
+      <h3>FOUNDER · SOFTWARE ENGINEER · AI BUILDER</h3>
+      <sub>Python · AI / ML · Full-Stack · Data · Cloud · Automation</sub>
+    </td>
+    <td valign="middle" align="center" width="22%">
+      <img src="https://github.com/stark-praty.png" width="150" alt="GitHub profile photo" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
