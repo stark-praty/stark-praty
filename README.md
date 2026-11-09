@@ -1,19 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stark-praty/stark-praty/main/assets/profile-header.svg" alt="Pratyush Garg dot and dash profile banner with GitHub avatar" width="100%" />
+<img src="https://raw.githubusercontent.com/stark-praty/stark-praty/main/assets/profile-header.svg?v=3" alt="Pratyush Garg dot and dash profile banner with GitHub avatar" width="100%" />
 
 </div>
 
-```bash
-pratyush@github ~ $ whoami
-Founder | Software Engineer | AI Builder
-
-pratyush@github ~ $ focus --current
-Python · AI / ML · Full-Stack · Data · Cloud · Automation
-
-pratyush@github ~ $ status
-● ONLINE — Building intelligent systems.
-```
 
 <div align="center">
 
