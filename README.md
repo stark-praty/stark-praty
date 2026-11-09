@@ -51,18 +51,11 @@ pratyush@github ~ $ status
   </tr>
 </table>
 
-## Technology
+## Core technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dotnet,fastapi,nodejs,react,nextjs,postgres,docker,aws,azure,git&perline=11" alt="Technology icons" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend%20%26%20APIs-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Engineering-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud%20%26%20Automation-475569?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,dotnet,react,postgres,azure,docker&perline=6" alt="Core technologies: Python, .NET, React, PostgreSQL, Azure, Docker" />
 
 </div>
 
