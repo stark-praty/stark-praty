@@ -1,36 +1,27 @@
 <table>
   <tr>
-    <td valign="middle" width="78%">
-      <pre>
-.-. .-. .-. .-. -.   .-. .-..-..-..-.
-| | | | | | | | | |   | | | | | | | | |
-'-' '-' '-' '-' '-'   '-' '-' '-'-'-'-'-
-      </pre>
+    <td width="78%" valign="middle">
+      <h1>PRATYUSH GARG</h1>
       <h3>FOUNDER · SOFTWARE ENGINEER · AI BUILDER</h3>
-      <sub>Python · AI / ML · Full-Stack · Data · Cloud · Automation</sub>
+      <p>Python · AI / ML · Full-Stack · Data · Cloud · Automation</p>
     </td>
-    <td valign="middle" align="center" width="22%">
-      <img src="https://github.com/stark-praty.png" width="150" alt="GitHub profile photo" />
+    <td width="22%" align="center" valign="middle">
+      <img src="https://github.com/stark-praty.png" width="140" alt="GitHub profile photo" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+
 <table>
   <tr>
-    <td>
-      <strong>⌘ &nbsp; WHOAMI</strong><br/>
-      <code>Founder · Software Engineer · AI Builder</code>
-    </td>
-    <td>
-      <strong>⌘ &nbsp; CURRENT FOCUS</strong><br/>
-      <code>Python · AI / ML · Full-Stack · Data · Cloud · Automation</code>
-    </td>
-    <td>
-      <strong>⌘ &nbsp; STATUS</strong><br/>
-      <code>Building intelligent systems</code>
-    </td>
+    <td align="center" width="33%"><strong>WHOAMI</strong><br/>Founder · Software Engineer · AI Builder</td>
+    <td align="center" width="34%"><strong>CURRENT FOCUS</strong><br/>Python · AI / ML · Full-Stack · Data · Cloud · Automation</td>
+    <td align="center" width="33%"><strong>STATUS</strong><br/>Building intelligent systems</td>
   </tr>
 </table>
+
+</div>
 
 <div align="center">
 
