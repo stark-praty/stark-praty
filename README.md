@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://stark-praty.github.io/portfolio/images/A11.jpg" alt="Profile portrait" width="220" />
+
+</div>
+
 ---
 
 ## What I work on
