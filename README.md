@@ -1,37 +1,41 @@
-<!-- GitHub profile | GitSkins Aurora -->
-
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=stark-praty&theme=aurora&label=FOUNDER%20%7C%20AI%2FML%20%7C%20SOFTWARE%20ENGINEER" alt="Founder | AI/ML | Software Engineer" width="100%" />
+# PRATYUSH GARG
 
-<img src="https://www.gitskins.com/api/section/hero?username=stark-praty&theme=aurora&mode=dark" alt="Profile hero" width="100%" />
+### FOUNDER · PYTHON · AI / ML · FULL-STACK · DATA
 
-### FOUNDER · PYTHON · AI / MACHINE LEARNING · FULL-STACK · DATA
-
-**Building intelligent products and practical software systems — combining Python, AI/ML, full-stack engineering, data, and cloud technologies.**
+**Building intelligent products and practical software systems at the intersection of AI, data, and software engineering.**
 
 [LinkedIn](https://www.linkedin.com/in/pratyushgarg7/) · [Portfolio](https://stark-praty.github.io/portfolio/) · [HackerRank](https://www.hackerrank.com/profile/Partyush007) · [Email](mailto:pratyush.garg47@outlook.com)
 
 </div>
 
+<table>
+<tr>
+<td width="34%" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/stark-praty/stark-praty/main/assets/terminal-portrait.svg" width="260" alt="Portrait rendered using dots and dashes" />
+</td>
+<td valign="middle">
+
+### `$ whoami`
+
+Founder focused on building practical software products, AI-powered workflows, and reliable business systems.
+
+- **AI & Machine Learning:** Python, ML workflows, applied AI
+- **Full-Stack Engineering:** frontend, backend, APIs, integrations
+- **Data:** data processing, analytics, intelligent automation
+- **Cloud & Systems:** Azure, deployment, scalable application architecture
+
+</td>
+</tr>
+</table>
+
 ---
 
-## `whoami`
-
-    $ whoami
-    Founder | Software & AI Engineering
-
-    $ cat focus.txt
-    AI & Data   : Python, machine learning, data science, intelligent workflows
-    Engineering : Full-stack applications, backend systems, APIs, integrations
-    Cloud       : Azure, cloud application development, deployment
-    Product     : Business software, automation, practical AI solutions
-    Principle   : Build useful systems. Solve real problems.
-
-## Core technologies
+## Core technology stack
 
 <div align="center">
-**PYTHON  ·  AI / ML  ·  DATA  ·  FULL-STACK  ·  CLOUD  ·  AUTOMATION**
+**PYTHON  ·  AI / ML  ·  DATA ENGINEERING  ·  FULL-STACK  ·  CLOUD  ·  AUTOMATION**
 
 <img src="https://www.gitskins.com/api/section/stack?username=stark-praty&theme=aurora" alt="Technology stack" width="100%" />
 </div>
@@ -57,10 +61,6 @@
 <img src="https://www.gitskins.com/api/section/heatmap?username=stark-praty&theme=aurora&style=snake" alt="Contribution activity" width="100%" />
 </div>
 
----
-
 <div align="center">
-**BUILD · LEARN · ITERATE · SHIP**
-
 <img src="https://komarev.com/ghpvc/?username=stark-praty&style=for-the-badge&color=7c5cff&label=PROFILE+VISITS" alt="Profile visits" />
 </div>
