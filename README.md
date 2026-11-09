@@ -1,6 +1,6 @@
 <div align="center">
 
-# PRATYUSH GARG
+<img src="https://raw.githubusercontent.com/stark-praty/stark-praty/main/assets/name-animation.svg" alt="PRATYUSH GARG — animated dot and dash lettering" width="100%" />
 
 ### FOUNDER · PYTHON · AI / ML · FULL-STACK · DATA
 
