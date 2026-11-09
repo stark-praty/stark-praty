@@ -15,6 +15,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <strong>⌘ &nbsp; WHOAMI</strong><br/>
+      <code>Founder · Software Engineer · AI Builder</code>
+    </td>
+    <td>
+      <strong>⌘ &nbsp; CURRENT FOCUS</strong><br/>
+      <code>Python · AI / ML · Full-Stack · Data · Cloud · Automation</code>
+    </td>
+    <td>
+      <strong>⌘ &nbsp; STATUS</strong><br/>
+      <code>Building intelligent systems</code>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pratyushgarg7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
